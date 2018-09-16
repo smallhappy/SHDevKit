@@ -1,0 +1,16 @@
+PODS:
+  - SHDevKit (0.1.0)
+
+DEPENDENCIES:
+  - SHDevKit (from `../`)
+
+EXTERNAL SOURCES:
+  SHDevKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SHDevKit: 9b01ea4327db784e7f9f4cbdf4d20b47e2ef2e16
+
+PODFILE CHECKSUM: d2a21531ef70891b5e713ad1497e703b71d56eba
+
+COCOAPODS: 1.5.0
