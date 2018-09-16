@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SHDevKit_Tests' do
+  pod 'SHDevKit', :path => '../'
+  
+  
+end
